@@ -9,7 +9,8 @@
     "build:babel": "babel -d lib src -x .tsx"
   },
   "files": [
-    "icon",
+    "svg",
+    "drawable",
     "lib"
   ],
   "devDependencies": {
