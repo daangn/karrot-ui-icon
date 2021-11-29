@@ -8,6 +8,9 @@
     "build:tsc": "tsc --emitDeclarationOnly",
     "build:babel": "babel -d lib src -x .tsx"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "files": [
     "svg",
     "drawable",
