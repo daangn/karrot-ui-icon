@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "strict": true,
+    "composite": true,
+    "incremental": true,
+    "jsx": "react-jsx",
+    "rootDir": "src",
+    "outDir": "lib"
+  },
+  "include": ["src"],
+  "exclude": []
+}
