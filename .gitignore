@@ -2,6 +2,7 @@
 *.log
 *.tsbuildinfo
 *.zip
+*.env
 
 node_modules/
 /lib/

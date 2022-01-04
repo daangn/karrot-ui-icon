@@ -8,6 +8,8 @@ const svgr = require('@svgr/core');
 const svg2vectordrawable = require('svg2vectordrawable');
 const _ = require('lodash');
 
+require('dotenv').config();
+
 const iconData = require('../data/icondata.json');
 
 const concurrency = +(process.env.CONCURRENCY || '10');
