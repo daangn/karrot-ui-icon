@@ -110,7 +110,7 @@ task('Fetch image URLs', async ({ task, setTitle }) => {
                 typescript: true,
                 dimensions: false,
               }, { componentName });
-              component = component.slice(`import * as React from "react";`.length);
+              component = component.slice(`import * as React from "react";\n`.length);
               await fs.writeFile(filePath, component, 'utf-8');
             }),
             task('Save as Vector Drawable', async ({ task }) => {
