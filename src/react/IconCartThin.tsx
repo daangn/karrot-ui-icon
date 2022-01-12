@@ -1,4 +1,3 @@
-
 import { SVGProps } from 'react';
 
 const IconCartThin = (props: SVGProps<SVGSVGElement>) => (

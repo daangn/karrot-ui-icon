@@ -1,4 +1,3 @@
-
 import { SVGProps } from 'react';
 
 const IconFilter02Fill = (props: SVGProps<SVGSVGElement>) => (

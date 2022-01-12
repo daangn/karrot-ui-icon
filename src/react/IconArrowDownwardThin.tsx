@@ -1,4 +1,3 @@
-
 import { SVGProps } from 'react';
 
 const IconArrowDownwardThin = (props: SVGProps<SVGSVGElement>) => (

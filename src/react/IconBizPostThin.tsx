@@ -1,4 +1,3 @@
-
 import { SVGProps } from 'react';
 
 const IconBizPostThin = (props: SVGProps<SVGSVGElement>) => (

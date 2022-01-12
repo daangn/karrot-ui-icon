@@ -1,4 +1,3 @@
-
 import { SVGProps } from 'react';
 
 const IconArrowDropDownRegular = (props: SVGProps<SVGSVGElement>) => (

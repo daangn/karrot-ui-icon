@@ -1,4 +1,3 @@
-
 import { SVGProps } from 'react';
 
 const IconStoryReplyFill = (props: SVGProps<SVGSVGElement>) => (

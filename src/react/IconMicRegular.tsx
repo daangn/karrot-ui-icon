@@ -1,7 +1,6 @@
-
 import { SVGProps } from 'react';
 
-const IconMiconRegular = (props: SVGProps<SVGSVGElement>) => (
+const IconMicRegular = (props: SVGProps<SVGSVGElement>) => (
   <svg
     viewBox="0 0 24 24"
     fill="none"
@@ -22,4 +21,4 @@ const IconMiconRegular = (props: SVGProps<SVGSVGElement>) => (
   </svg>
 );
 
-export default IconMiconRegular;
+export default IconMicRegular;

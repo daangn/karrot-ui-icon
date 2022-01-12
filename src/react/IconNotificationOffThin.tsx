@@ -1,4 +1,3 @@
-
 import { SVGProps } from 'react';
 
 const IconNotificationOffThin = (props: SVGProps<SVGSVGElement>) => (

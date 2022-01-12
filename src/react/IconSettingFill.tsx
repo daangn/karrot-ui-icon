@@ -1,4 +1,3 @@
-
 import { SVGProps } from 'react';
 
 const IconSettingFill = (props: SVGProps<SVGSVGElement>) => (

@@ -1,4 +1,3 @@
-
 import { SVGProps } from 'react';
 
 const IconPercentFill = (props: SVGProps<SVGSVGElement>) => (

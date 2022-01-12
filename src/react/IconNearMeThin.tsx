@@ -1,4 +1,3 @@
-
 import { SVGProps } from 'react';
 
 const IconNearMeThin = (props: SVGProps<SVGSVGElement>) => (

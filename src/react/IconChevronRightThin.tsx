@@ -1,4 +1,3 @@
-
 import { SVGProps } from 'react';
 
 const IconChevronRightThin = (props: SVGProps<SVGSVGElement>) => (

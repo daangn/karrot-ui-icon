@@ -1,4 +1,3 @@
-
 import { SVGProps } from 'react';
 
 const IconGroupchatKingFill = (props: SVGProps<SVGSVGElement>) => (

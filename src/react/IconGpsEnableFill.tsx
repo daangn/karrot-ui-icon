@@ -1,4 +1,3 @@
-
 import { SVGProps } from 'react';
 
 const IconGpsEnableFill = (props: SVGProps<SVGSVGElement>) => (

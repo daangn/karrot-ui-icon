@@ -1,4 +1,3 @@
-
 import { SVGProps } from 'react';
 
 const IconProductRegular = (props: SVGProps<SVGSVGElement>) => (

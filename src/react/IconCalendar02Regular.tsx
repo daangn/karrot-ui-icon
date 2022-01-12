@@ -1,4 +1,3 @@
-
 import { SVGProps } from 'react';
 
 const IconCalendar02Regular = (props: SVGProps<SVGSVGElement>) => (

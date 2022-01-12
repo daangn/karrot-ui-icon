@@ -1,7 +1,6 @@
-
 import { SVGProps } from 'react';
 
-const IconNewtopiconRegular = (props: SVGProps<SVGSVGElement>) => (
+const IconNewtopicRegular = (props: SVGProps<SVGSVGElement>) => (
   <svg
     viewBox="0 0 24 24"
     fill="none"
@@ -22,4 +21,4 @@ const IconNewtopiconRegular = (props: SVGProps<SVGSVGElement>) => (
   </svg>
 );
 
-export default IconNewtopiconRegular;
+export default IconNewtopicRegular;

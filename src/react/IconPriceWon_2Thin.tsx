@@ -1,4 +1,3 @@
-
 import { SVGProps } from 'react';
 
 const IconPriceWon_2Thin = (props: SVGProps<SVGSVGElement>) => (

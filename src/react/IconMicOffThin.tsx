@@ -1,7 +1,6 @@
-
 import { SVGProps } from 'react';
 
-const IconMiconOffThin = (props: SVGProps<SVGSVGElement>) => (
+const IconMicOffThin = (props: SVGProps<SVGSVGElement>) => (
   <svg
     viewBox="0 0 24 24"
     fill="none"
@@ -26,4 +25,4 @@ const IconMiconOffThin = (props: SVGProps<SVGSVGElement>) => (
   </svg>
 );
 
-export default IconMiconOffThin;
+export default IconMicOffThin;

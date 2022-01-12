@@ -1,4 +1,3 @@
-
 import { SVGProps } from 'react';
 
 const IconSearchRegular = (props: SVGProps<SVGSVGElement>) => (

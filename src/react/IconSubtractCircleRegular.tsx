@@ -1,4 +1,3 @@
-
 import { SVGProps } from 'react';
 
 const IconSubtractCircleRegular = (props: SVGProps<SVGSVGElement>) => (

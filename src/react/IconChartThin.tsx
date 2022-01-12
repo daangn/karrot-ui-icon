@@ -1,4 +1,3 @@
-
 import { SVGProps } from 'react';
 
 const IconChartThin = (props: SVGProps<SVGSVGElement>) => (

@@ -1,4 +1,3 @@
-
 import { SVGProps } from 'react';
 
 const IconLoudspeakerFill = (props: SVGProps<SVGSVGElement>) => (

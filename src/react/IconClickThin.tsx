@@ -1,4 +1,3 @@
-
 import { SVGProps } from 'react';
 
 const IconClickThin = (props: SVGProps<SVGSVGElement>) => (

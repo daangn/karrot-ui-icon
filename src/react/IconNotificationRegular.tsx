@@ -1,4 +1,3 @@
-
 import { SVGProps } from 'react';
 
 const IconNotificationRegular = (props: SVGProps<SVGSVGElement>) => (

@@ -1,4 +1,3 @@
-
 import { SVGProps } from 'react';
 
 const IconChattingPromiseRegular = (props: SVGProps<SVGSVGElement>) => (

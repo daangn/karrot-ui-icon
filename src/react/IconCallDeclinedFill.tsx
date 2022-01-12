@@ -1,4 +1,3 @@
-
 import { SVGProps } from 'react';
 
 const IconCallDeclinedFill = (props: SVGProps<SVGSVGElement>) => (

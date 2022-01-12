@@ -1,7 +1,6 @@
-
 import { SVGProps } from 'react';
 
-const IconNewtopiconThin = (props: SVGProps<SVGSVGElement>) => (
+const IconNewtopicThin = (props: SVGProps<SVGSVGElement>) => (
   <svg
     viewBox="0 0 24 24"
     fill="none"
@@ -22,4 +21,4 @@ const IconNewtopiconThin = (props: SVGProps<SVGSVGElement>) => (
   </svg>
 );
 
-export default IconNewtopiconThin;
+export default IconNewtopicThin;

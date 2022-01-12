@@ -1,4 +1,3 @@
-
 import { SVGProps } from 'react';
 
 const IconPhotoEditRotateRegular = (props: SVGProps<SVGSVGElement>) => (

@@ -1,4 +1,3 @@
-
 import { SVGProps } from 'react';
 
 const IconShareThin = (props: SVGProps<SVGSVGElement>) => (

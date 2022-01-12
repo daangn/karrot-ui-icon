@@ -1,4 +1,3 @@
-
 import { SVGProps } from 'react';
 
 const IconCallDeclinedThin = (props: SVGProps<SVGSVGElement>) => (

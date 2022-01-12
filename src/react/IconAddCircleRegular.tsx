@@ -1,4 +1,3 @@
-
 import { SVGProps } from 'react';
 
 const IconAddCircleRegular = (props: SVGProps<SVGSVGElement>) => (

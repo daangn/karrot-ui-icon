@@ -1,4 +1,3 @@
-
 import { SVGProps } from 'react';
 
 const IconGpsThin = (props: SVGProps<SVGSVGElement>) => (

@@ -1,4 +1,3 @@
-
 import { SVGProps } from 'react';
 
 const IconKeyboardHidingThin = (props: SVGProps<SVGSVGElement>) => (

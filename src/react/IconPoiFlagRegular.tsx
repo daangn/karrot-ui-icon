@@ -1,4 +1,3 @@
-
 import { SVGProps } from 'react';
 
 const IconPoiFlagRegular = (props: SVGProps<SVGSVGElement>) => (

@@ -1,4 +1,3 @@
-
 import { SVGProps } from 'react';
 
 const IconChatBubbleCheckThin = (props: SVGProps<SVGSVGElement>) => (

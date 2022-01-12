@@ -1,4 +1,3 @@
-
 import { SVGProps } from 'react';
 
 const IconLockRegular = (props: SVGProps<SVGSVGElement>) => (

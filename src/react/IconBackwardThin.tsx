@@ -1,4 +1,3 @@
-
 import { SVGProps } from 'react';
 
 const IconBackwardThin = (props: SVGProps<SVGSVGElement>) => (

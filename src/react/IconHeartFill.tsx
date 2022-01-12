@@ -1,4 +1,3 @@
-
 import { SVGProps } from 'react';
 
 const IconHeartFill = (props: SVGProps<SVGSVGElement>) => (

@@ -1,4 +1,3 @@
-
 import { SVGProps } from 'react';
 
 const IconPoiLeafFill = (props: SVGProps<SVGSVGElement>) => (

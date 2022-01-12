@@ -1,4 +1,3 @@
-
 import { SVGProps } from 'react';
 
 const IconCouponDownloadDoneRegular = (props: SVGProps<SVGSVGElement>) => (

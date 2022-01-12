@@ -1,4 +1,3 @@
-
 import { SVGProps } from 'react';
 
 const IconWriteRegular = (props: SVGProps<SVGSVGElement>) => (
