@@ -1,0 +1,19 @@
+name: Dispatch monochrome icons when a new release is published
+
+on:
+  release:
+    types: [ published ]
+
+jobs:
+  dispatch:
+    name: Send create_pr event to android repo
+    runs-on: macos-latest
+    steps:
+      - name: Send event
+        shell: bash
+        run: |
+          curl -X POST \
+          -H "Accept: application/vnd.github.v3+json" \
+          -H "Authorization: token ${{ secrets.ANDROID_WORKFLOW_TOKEN }}" \
+          --data '{"event_type": "create_pr"}' \
+          https://api.github.com/repos/daangn/karrotx/dispatches
