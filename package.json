@@ -4,7 +4,8 @@
   "type": "module",
   "scripts": {
     "prepack": "yarn build",
-    "update-icons": "node -r tsm scripts/fetch-and-build-assets.cjs",
+    "update-icons": "SKIP_PDF=true node -r tsm scripts/fetch-and-build-assets.cjs",
+    "generate-pdf": "node scripts/convert-svg-to-pdf.cjs",
     "build": "yarn build:tsc && yarn build:babel",
     "build:tsc": "tsc --emitDeclarationOnly",
     "build:babel": "babel -d lib src -x .tsx"
@@ -31,7 +32,10 @@
     "@types/react": "^17.0.37",
     "dotenv": "^10.0.0",
     "got": "^11.8.3",
+    "jsdom": "^19.0.0",
+    "jspdf": "^2.5.1",
     "lodash": "^4.17.21",
+    "svg2pdf.js": "^2.2.0",
     "svg2vectordrawable": "^2.8.1",
     "svgo": "^2.8.0",
     "tasuku": "^1.0.2",

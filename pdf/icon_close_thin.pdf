@@ -1,83 +1,272 @@
-%PDF-1.7
-
-1 0 obj
-  << >>
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 24. 24.]
+/Contents 4 0 R
+>>
 endobj
-
-2 0 obj
-  << /Length 3 0 R >>
+4 0 obj
+<<
+/Length 1477
+>>
 stream
-/DeviceRGB CS
-/DeviceRGB cs
+0.200025 w
+0 G
 q
-1.000000 0.000000 -0.000000 1.000000 0.058594 -0.058594 cm
-0.129412 0.129412 0.141176 scn
-0.175736 13.141402 m
-0.410051 13.375717 0.789950 13.375717 1.024264 13.141402 c
-6.600000 7.565667 l
-12.175736 13.141402 l
-12.410051 13.375717 12.789949 13.375717 13.024264 13.141402 c
-13.258579 12.907088 13.258579 12.527189 13.024264 12.292874 c
-7.448528 6.717139 l
-13.024264 1.141402 l
-13.258579 0.907087 13.258579 0.527189 13.024264 0.292874 c
-12.789949 0.058559 12.410051 0.058559 12.175736 0.292874 c
-6.600000 5.868611 l
-1.024264 0.292874 l
-0.789950 0.058559 0.410051 0.058559 0.175736 0.292874 c
--0.058579 0.527189 -0.058579 0.907087 0.175736 1.141402 c
-5.751472 6.717139 l
-0.175736 12.292874 l
--0.058579 12.527189 -0.058579 12.907088 0.175736 13.141402 c
+1. 0. 0. -1. 0. 24. cm
+q
+1. 0. 0. 1. 0. 0. cm
+1. w
+0. g
+q
+1. 0. 0. 1. 0. 0. cm
+0. 0. 24. 24. re
+W
+n
+q
+q
+0. g
+1. 0. 0. 1. 0. 0. cm
+5.5756399999999999 5.5756399999999999 m
+5.8099499999999997 5.3413199999999996 6.1898499999999999 5.3413199999999996 6.4241700000000002 5.5756399999999999 c
+11.9999000000000002 11.1514000000000006 l
+17.5756000000000014 5.5756399999999999 l
+17.8099999999999987 5.3413199999999996 18.1899000000000015 5.3413199999999996 18.424199999999999 5.5756399999999999 c
+18.6585000000000001 5.8099499999999997 18.6585000000000001 6.1898499999999999 18.424199999999999 6.4241700000000002 c
+12.8483999999999998 11.9999000000000002 l
+18.424199999999999 17.5756000000000014 l
+18.6585000000000001 17.8099999999999987 18.6585000000000001 18.1899000000000015 18.424199999999999 18.424199999999999 c
+18.1899000000000015 18.6585000000000001 17.8099999999999987 18.6585000000000001 17.5756000000000014 18.424199999999999 c
+11.9999000000000002 12.8483999999999998 l
+6.4241700000000002 18.424199999999999 l
+6.1898499999999999 18.6585000000000001 5.8099499999999997 18.6585000000000001 5.5756399999999999 18.424199999999999 c
+5.3413199999999996 18.1899000000000015 5.3413199999999996 17.8099999999999987 5.5756399999999999 17.5756000000000014 c
+11.1514000000000006 11.9999000000000002 l
+5.5756399999999999 6.4241700000000002 l
+5.3413199999999996 6.1898499999999999 5.3413199999999996 5.8099499999999997 5.5756399999999999 5.5756399999999999 c
 h
 f*
-n
 Q
-
+Q
+Q
+Q
+Q
 endstream
 endobj
-
-3 0 obj
-  790
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
 endobj
-
-4 0 obj
-  << /Annots []
-     /MediaBox [ 0.000000 0.000000 13.317139 13.317139 ]
-     /Resources 1 0 R
-     /Contents 2 0 R
-     /Parent 5 0 R
-     /Type /Page
-  >>
-endobj
-
 5 0 obj
-  << /Kids [ 4 0 R ]
-     /Count 1
-     /Type /Pages
-  >>
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
 endobj
-
 6 0 obj
-  << /Type /Catalog
-     /Pages 5 0 R
-  >>
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
 endobj
-
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+/F13 17 0 R
+/F14 18 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+19 0 obj
+<<
+/Producer (jsPDF 2.5.1)
+/CreationDate (D:20220222121103+09'00')
+>>
+endobj
+20 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
 xref
-0 7
-0000000000 65535 f
-0000000010 00000 n
-0000000034 00000 n
-0000000880 00000 n
-0000000902 00000 n
-0000001075 00000 n
-0000001149 00000 n
+0 21
+0000000000 65535 f 
+0000001647 00000 n 
+0000003464 00000 n 
+0000000015 00000 n 
+0000000118 00000 n 
+0000001704 00000 n 
+0000001829 00000 n 
+0000001959 00000 n 
+0000002092 00000 n 
+0000002229 00000 n 
+0000002352 00000 n 
+0000002481 00000 n 
+0000002613 00000 n 
+0000002749 00000 n 
+0000002877 00000 n 
+0000003004 00000 n 
+0000003133 00000 n 
+0000003266 00000 n 
+0000003368 00000 n 
+0000003712 00000 n 
+0000003798 00000 n 
 trailer
-<< /ID [ (some) (id) ]
-   /Root 6 0 R
-   /Size 7
+<<
+/Size 21
+/Root 20 0 R
+/Info 19 0 R
+/ID [ <31A6F6C5C9CC93DDDD955E2B79E7EC0A> <31A6F6C5C9CC93DDDD955E2B79E7EC0A> ]
 >>
 startxref
-1208
+3902
 %%EOF

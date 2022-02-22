@@ -1,102 +1,290 @@
-%PDF-1.7
-
-1 0 obj
-  << >>
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 24. 24.]
+/Contents 4 0 R
+>>
 endobj
-
-2 0 obj
-  << /Length 3 0 R >>
+4 0 obj
+<<
+/Length 1868
+>>
 stream
-/DeviceRGB CS
-/DeviceRGB cs
+0.200025 w
+0 G
 q
-1.000000 0.000000 -0.000000 1.000000 0.000000 0.000000 cm
-0.129412 0.129412 0.141176 scn
-3.800000 1.200195 m
-2.750049 1.200195 l
-2.750049 18.399902 l
-1.550049 18.399902 l
-1.550049 1.200195 l
-0.600000 1.200195 l
-0.268629 1.200195 0.000000 0.931566 0.000000 0.600195 c
-0.000000 0.268824 0.268629 0.000195 0.600000 0.000195 c
-3.800000 0.000195 l
-4.131371 0.000195 4.400000 0.268824 4.400000 0.600195 c
-4.400000 0.931566 4.131371 1.200195 3.800000 1.200195 c
+1. 0. 0. -1. 0. 24. cm
+q
+1. 0. 0. 1. 0. 0. cm
+1. w
+0. g
+q
+1. 0. 0. 1. 0. 0. cm
+0. 0. 24. 24. re
+W
+n
+q
+q
+0. g
+1. 0. 0. 1. 0. 0. cm
+7.2999999999999998 19.6997 m
+6.2500499999999999 19.6997 l
+6.2500499999999999 2.5 l
+5.0500499999999997 2.5 l
+5.0500499999999997 19.6997 l
+4.0999999999999996 19.6997 l
+3.7686299999999999 19.6997 3.5 19.9682999999999993 3.5 20.2997000000000014 c
+3.5 20.6311 3.7686299999999999 20.8996999999999993 4.0999999999999996 20.8996999999999993 c
+7.2999999999999998 20.8996999999999993 l
+7.6313700000000004 20.8996999999999993 7.9000000000000004 20.6311 7.9000000000000004 20.2997000000000014 c
+7.9000000000000004 19.9682999999999993 7.6313700000000004 19.6997 7.2999999999999998 19.6997 c
 h
 f
-n
 Q
 q
-1.000000 0.000000 -0.000000 1.000000 0.000000 6.199707 cm
-0.129412 0.129412 0.141176 scn
-17.499903 11.990234 m
-3.899902 11.990234 l
-3.899902 -0.209766 l
-17.499903 -0.209766 l
-17.737392 -0.209766 17.952534 -0.069687 18.048611 0.147502 c
-18.144688 0.364690 18.103621 0.618109 17.943867 0.793838 c
-13.310779 5.890234 l
-17.943867 10.986630 l
-18.103621 11.162359 18.144688 11.415778 18.048611 11.632967 c
-17.952534 11.850155 17.737392 11.990234 17.499903 11.990234 c
+0. g
+1. 0. 0. 1. 0. 0. cm
+20.9999000000000002 2.7099600000000001 m
+7.3998999999999997 2.7099600000000001 l
+7.3998999999999997 14.9100000000000001 l
+20.9999000000000002 14.9100000000000001 l
+21.2374000000000009 14.9100000000000001 21.4525000000000006 14.7698999999999998 21.5486000000000004 14.5526999999999997 c
+21.6447000000000003 14.3354999999999997 21.6036000000000001 14.0821000000000005 21.4438999999999993 13.9063999999999997 c
+16.8108000000000004 8.8099600000000002 l
+21.4438999999999993 3.7135600000000002 l
+21.6036000000000001 3.5378400000000001 21.6447000000000003 3.2844199999999999 21.5486000000000004 3.0672299999999999 c
+21.4525000000000006 2.8500399999999999 21.2374000000000009 2.7099600000000001 20.9999000000000002 2.7099600000000001 c
 h
-5.099902 0.990234 m
-5.099902 10.790235 l
-16.143572 10.790235 l
-12.055939 6.293838 l
-11.847891 6.064985 11.847891 5.715484 12.055939 5.486631 c
-16.143572 0.990234 l
-5.099902 0.990234 l
+8.5998999999999999 13.7100000000000009 m
+8.5998999999999999 3.9099599999999999 l
+19.6435999999999993 3.9099599999999999 l
+15.5558999999999994 8.4063599999999994 l
+15.3478999999999992 8.6352100000000007 15.3478999999999992 8.9847099999999998 15.5558999999999994 9.2135599999999993 c
+19.6435999999999993 13.7100000000000009 l
+8.5998999999999999 13.7100000000000009 l
 h
 f*
-n
 Q
-
+Q
+Q
+Q
+Q
 endstream
 endobj
-
-3 0 obj
-  1152
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
 endobj
-
-4 0 obj
-  << /Annots []
-     /MediaBox [ 0.000000 0.000000 18.144775 18.399902 ]
-     /Resources 1 0 R
-     /Contents 2 0 R
-     /Parent 5 0 R
-     /Type /Page
-  >>
-endobj
-
 5 0 obj
-  << /Kids [ 4 0 R ]
-     /Count 1
-     /Type /Pages
-  >>
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
 endobj
-
 6 0 obj
-  << /Type /Catalog
-     /Pages 5 0 R
-  >>
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
 endobj
-
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+/F13 17 0 R
+/F14 18 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+19 0 obj
+<<
+/Producer (jsPDF 2.5.1)
+/CreationDate (D:20220222121104+09'00')
+>>
+endobj
+20 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
 xref
-0 7
-0000000000 65535 f
-0000000010 00000 n
-0000000034 00000 n
-0000001242 00000 n
-0000001265 00000 n
-0000001438 00000 n
-0000001512 00000 n
+0 21
+0000000000 65535 f 
+0000002038 00000 n 
+0000003855 00000 n 
+0000000015 00000 n 
+0000000118 00000 n 
+0000002095 00000 n 
+0000002220 00000 n 
+0000002350 00000 n 
+0000002483 00000 n 
+0000002620 00000 n 
+0000002743 00000 n 
+0000002872 00000 n 
+0000003004 00000 n 
+0000003140 00000 n 
+0000003268 00000 n 
+0000003395 00000 n 
+0000003524 00000 n 
+0000003657 00000 n 
+0000003759 00000 n 
+0000004103 00000 n 
+0000004189 00000 n 
 trailer
-<< /ID [ (some) (id) ]
-   /Root 6 0 R
-   /Size 7
+<<
+/Size 21
+/Root 20 0 R
+/Info 19 0 R
+/ID [ <F9B03D0CAC8893672FC5FE006E5FC865> <F9B03D0CAC8893672FC5FE006E5FC865> ]
 >>
 startxref
-1571
+4293
 %%EOF
