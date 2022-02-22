@@ -1,6 +1,6 @@
 {
   "name": "@karrotmarket/karrot-ui-icon",
-  "version": "0.0.0-20220122.1",
+  "version": "0.0.0-20220222.1",
   "type": "module",
   "scripts": {
     "prepack": "yarn build",
