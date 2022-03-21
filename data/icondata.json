@@ -804,15 +804,15 @@
     "icon_talkingdown_fill"
   ],
   [
-    "79:355",
+    "11664:1199",
     "icon_chevron_right_regular"
   ],
   [
-    "9147:2107",
+    "11664:1201",
     "icon_chevron_right_thin"
   ],
   [
-    "9147:2105",
+    "11664:1203",
     "icon_chevron_right_fill"
   ],
   [
@@ -1918,5 +1918,17 @@
   [
     "10255:1157",
     "icon_market_check_regular"
+  ],
+  [
+    "11567:1199",
+    "icon_bookmark_list_thin"
+  ],
+  [
+    "11567:1219",
+    "icon_bookmark_list_regular"
+  ],
+  [
+    "11567:1218",
+    "icon_bookmark_list_fill"
   ]
 ]
