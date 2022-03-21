@@ -35,10 +35,10 @@ const basePath = path.resolve(__dirname, '..');
 const svgPath = path.resolve(basePath, 'svg');
 mkdirSync(svgPath, { recursive: true });
 
-const drawablePath = path.resolve(basePath, '../drawable');
+const drawablePath = path.resolve(basePath, 'drawable');
 mkdirSync(drawablePath, { recursive: true });
 
-const componentPath = path.resolve(basePath, '../src/react');
+const componentPath = path.resolve(basePath, 'src/react');
 mkdirSync(componentPath, { recursive: true });
 
 const pdfPath = path.resolve(basePath, 'pdf');
