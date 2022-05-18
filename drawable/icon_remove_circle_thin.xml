@@ -4,10 +4,10 @@
     android:viewportWidth="24"
     android:viewportHeight="24">
     <path
-        android:fillColor="#FF212124"
+        android:fillColor="@color/gray900"
         android:fillType="evenOdd"
         android:pathData="M2 12C2 6.48 6.48 2 12 2s10 4.48 10 10-4.48 10-10 10S2 17.52 2 12Zm10-8.67c-4.79 0-8.67 3.88-8.67 8.67s3.88 8.67 8.67 8.67 8.67-3.88 8.67-8.67S16.79 3.33 12 3.33Z"/>
     <path
-        android:fillColor="#FF212124"
+        android:fillColor="@color/gray900"
         android:pathData="M8.26 15.74c-0.22-0.23-0.22-0.58 0-0.8L11.2 12 8.26 9.06c-0.22-0.22-0.22-0.57 0-0.8 0.23-0.22 0.58-0.22 0.8 0L12 11.2l2.94-2.94c0.22-0.22 0.57-0.22 0.8 0 0.22 0.23 0.22 0.58 0 0.8L12.8 12l2.94 2.94c0.22 0.22 0.22 0.57 0 0.8-0.23 0.22-0.58 0.22-0.8 0L12 12.8l-2.94 2.94c-0.22 0.22-0.57 0.22-0.8 0Z"/>
 </vector>

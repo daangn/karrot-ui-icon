@@ -4,7 +4,7 @@
     android:viewportWidth="24"
     android:viewportHeight="24">
     <path
-        android:fillColor="#FF212124"
+        android:fillColor="@color/gray900"
         android:fillType="evenOdd"
         android:pathData="M8.18 2.98c-0.24 0.23-0.24 0.61 0 0.84l8.07 8.08-8.07 8.08c-0.24 0.23-0.24 0.61 0 0.84 0.23 0.24 0.61 0.24 0.84 0l8.5-8.5c0.24-0.23 0.24-0.61 0-0.84l-8.5-8.5c-0.23-0.24-0.61-0.24-0.84 0Z"/>
 </vector>

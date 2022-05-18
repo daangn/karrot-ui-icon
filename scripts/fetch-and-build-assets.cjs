@@ -124,7 +124,10 @@ task.group(task => [
               }),
               task('Save as Vector Drawable', async ({ task }) => {
                 const filePath = path.join(drawablePath, `${iconName}.xml`);
-                const drawable = await svg2vectordrawable(body);
+
+                let drawable = await svg2vectordrawable(body);
+                drawable = drawable.replace(/#FF212124/g, '@color/gray900');
+
                 await fs.writeFile(filePath, drawable, 'utf-8');
               }),
             ]);
