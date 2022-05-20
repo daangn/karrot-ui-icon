@@ -6,21 +6,21 @@
     <path
         android:fillColor="@color/gray900"
         android:fillType="evenOdd"
-        android:pathData="M12 2.38c-5.32 0-9.63 4.3-9.63 9.62 0 5.32 4.31 9.63 9.63 9.63 5.32 0 9.63-4.31 9.63-9.63 0-5.32-4.31-9.63-9.63-9.63ZM1 12C1 5.92 5.92 1 12 1s11 4.92 11 11-4.92 11-11 11S1 18.08 1 12Z"/>
+        android:pathData="M12 2.6c-5.2 0-9.4 4.2-9.4 9.4s4.2 9.4 9.4 9.4 9.4-4.2 9.4-9.4-4.2-9.4-9.4-9.4ZM1.4 12C1.4 6.15 6.15 1.4 12 1.4S22.6 6.15 22.6 12 17.85 22.6 12 22.6 1.4 17.85 1.4 12Z"/>
     <path
         android:fillColor="@color/gray900"
         android:fillType="evenOdd"
-        android:pathData="M10.83 22.8c-5.97-5.97-5.97-15.63 0-21.6l0.97 0.97c-5.43 5.43-5.43 14.23 0 19.66l-0.97 0.97Z"/>
+        android:pathData="M11.6 22.44c-6.16-5.6-6.16-15.28 0-20.88l0.8 0.88c-5.63 5.13-5.63 14 0 19.12l-0.8 0.88Z"/>
     <path
         android:fillColor="@color/gray900"
         android:fillType="evenOdd"
-        android:pathData="M13.17 22.8c5.97-5.97 5.97-15.63 0-21.6L12.2 2.17c5.43 5.43 5.43 14.23 0 19.66l0.97 0.97Z"/>
+        android:pathData="M12.4 22.44c6.16-5.6 6.16-15.28 0-20.88l-0.8 0.88c5.63 5.13 5.63 14 0 19.12l0.8 0.88Z"/>
     <path
         android:fillColor="@color/gray900"
         android:fillType="evenOdd"
-        android:pathData="M21.63 9.25H2.38V7.87h19.25v1.38Z"/>
+        android:pathData="M1.9 9c0-0.33 0.27-0.6 0.6-0.6h19c0.33 0 0.6 0.27 0.6 0.6 0 0.33-0.27 0.6-0.6 0.6h-19C2.17 9.6 1.9 9.33 1.9 9Z"/>
     <path
         android:fillColor="@color/gray900"
         android:fillType="evenOdd"
-        android:pathData="M21.63 16.13H2.38v-1.38h19.25v1.38Z"/>
+        android:pathData="M1.9 15c0-0.33 0.27-0.6 0.6-0.6h19c0.33 0 0.6 0.27 0.6 0.6 0 0.33-0.27 0.6-0.6 0.6h-19c-0.33 0-0.6-0.27-0.6-0.6Z"/>
 </vector>

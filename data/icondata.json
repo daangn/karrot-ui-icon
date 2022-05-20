@@ -301,15 +301,15 @@
   ],
   [
     "9147:2153",
-    "icon_android_share_thin"
+    "icon_ios_share_thin"
   ],
   [
     "79:378",
-    "icon_android_share_regular"
+    "icon_ios_share_regular"
   ],
   [
     "9147:2155",
-    "icon_android_share_fill"
+    "icon_ios_share_fill"
   ],
   [
     "457:275",
@@ -1093,15 +1093,15 @@
   ],
   [
     "451:836",
-    "icon_ios_share_thin"
+    "icon_android_share_thin"
   ],
   [
     "79:371",
-    "icon_ios_share_regular"
+    "icon_android_share_regular"
   ],
   [
     "8957:2553",
-    "icon_ios_share_fill"
+    "icon_android_share_fill"
   ],
   [
     "9147:1760",
@@ -1666,5 +1666,17 @@
   [
     "9147:1771",
     "icon_backward_fill"
+  ],
+  [
+    "13078:3226",
+    "icon_delete_keyboard_thin"
+  ],
+  [
+    "13078:3228",
+    "icon_delete_keyboard_regular"
+  ],
+  [
+    "13078:3227",
+    "icon_delete_keyboard_fill"
   ]
 ]
