@@ -4,8 +4,7 @@
     "module": "ESNext",
     "moduleResolution": "Node",
     "strict": true,
-    "composite": true,
-    "incremental": true,
+    "declaration": true,
     "jsx": "react-jsx",
     "rootDir": "src",
     "outDir": "lib"
