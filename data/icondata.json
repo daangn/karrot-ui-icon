@@ -1368,18 +1368,6 @@
     "icon_reply_fill"
   ],
   [
-    "8991:1584",
-    "icon_chatting_thin"
-  ],
-  [
-    "3489:49",
-    "icon_chatting_regular"
-  ],
-  [
-    "8991:1583",
-    "icon_chatting_fill"
-  ],
-  [
     "418:24",
     "icon_reply_mission_thin"
   ],
@@ -1678,5 +1666,17 @@
   [
     "13078:3227",
     "icon_delete_keyboard_fill"
+  ],
+  [
+    "8991:1584",
+    "icon_chatting_thin"
+  ],
+  [
+    "3489:49",
+    "icon_chatting_regular"
+  ],
+  [
+    "8991:1583",
+    "icon_chatting_fill"
   ]
 ]
