@@ -2050,5 +2050,41 @@
   [
     "16237:6009",
     "icon_cobuying_fill"
+  ],
+  [
+    "17950:5857",
+    "icon_gender_thin"
+  ],
+  [
+    "17950:5858",
+    "icon_gender_regular"
+  ],
+  [
+    "17950:5859",
+    "icon_gender_fill"
+  ],
+  [
+    "18115:5882",
+    "icon_expand_thin"
+  ],
+  [
+    "18115:5881",
+    "icon_expand_regular"
+  ],
+  [
+    "18115:5880",
+    "icon_expand_fill"
+  ],
+  [
+    "18281:5866",
+    "icon_video_thin"
+  ],
+  [
+    "18281:5864",
+    "icon_video_regular"
+  ],
+  [
+    "18281:5865",
+    "icon_video_fill"
   ]
 ]
