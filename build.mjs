@@ -12,7 +12,7 @@ esbuild.build({
   format: 'esm',
   platform: 'node',
   target: ['node16'],
-	external: [
+  external: [
     ...Object.keys(pkg.dependencies),
   ],
 });

@@ -10,7 +10,7 @@ export default function generate({ iconComponentOutputPath, iconComponentFileNam
     path.dirname(spriteAbsolutePath),
   );
 
-	return dedent`
+  return dedent`
     import { forwardRef, type ForwardRefRenderFunction } from "react";
     import spriteUrl from "${spriteRelativeDir}/${spriteFileName}.svg";
 
@@ -36,7 +36,7 @@ export default function generate({ iconComponentOutputPath, iconComponentFileNam
         </span>
       );
     };
-		
+    
     export default forwardRef(SeedIcon);
 
     type IconName = (
