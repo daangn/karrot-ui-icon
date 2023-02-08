@@ -44,16 +44,3 @@ export default function generate({ iconComponentOutputPath, iconComponentFileNam
     );\n
   `;
 }
-
-console.log(generate({
-  iconComponentOutputPath: 'src',
-  iconComponentFileName: 'SeedIcon',
-  spriteOutputPath: 'assets',
-  spriteFileName: 'sprite',
-  version: '1.0.0',
-  icons: [
-    'icon_add_circle_fill',
-    'icon_add_circle_regular',
-    'icon_add_circle_thin',
-  ],
-}));

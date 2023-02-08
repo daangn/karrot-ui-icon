@@ -10,7 +10,7 @@ import chalk from 'chalk';
 
 import generateSeedIconComponent from './generate-seed-icon-component.mjs';
 import generateSpriteSvg from './generate-sprite-svg.mjs';
-import generateConfig from './generate-config.mjs';
+import generateConfig from './generate-config';
 
 const program = new Command();
 const configPath = path.resolve(appRoot.path, 'icon.config.yml');
