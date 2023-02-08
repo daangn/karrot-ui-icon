@@ -6,8 +6,3 @@
 
 node_modules/
 /lib/
-
-/bin.mjs
-/bin.mjs.LEGAL.txt
-/bin.min.mjs
-/bin.min.mjs.LEGAL.txt
