@@ -42,7 +42,6 @@
     "jsdom": "^19.0.0",
     "jspdf": "^2.5.1",
     "lodash": "^4.17.21",
-    "svg-sprite": "^2.0.1",
     "svg2pdf.js": "^2.2.0",
     "svg2vectordrawable": "^2.8.1",
     "svgo": "^2.8.0",
