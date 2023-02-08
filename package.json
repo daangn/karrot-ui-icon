@@ -1,6 +1,6 @@
 {
   "name": "@karrotmarket/karrot-ui-icon",
-  "version": "0.0.0-20230207.3",
+  "version": "0.0.0-20230208.3",
   "type": "module",
   "bin": {
     "seed-icon": "./bin.min.mjs"
@@ -10,9 +10,8 @@
     "update-icons": "SKIP_PDF=true node -r tsm scripts/fetch-and-build-assets.cjs",
     "generate-pdf": "node scripts/convert-svg-to-pdf.cjs",
     "generate-sprite": "node scripts/generate-svg-sprite.cjs",
-    "generate-icon-data-mjs": "node scripts/generate-icon-data-mjs.cjs",
-    "build": "yarn build:tsc && yarn build:babel && yarn generate-icon-data-mjs && yarn build:seed-icon-cli",
-    "build:seed-icon-cli": "node build.mjs",
+    "generate-icon-cli-data": "node scripts/generate-icon-cli-data.cjs",
+    "build": "yarn build:tsc && yarn build:babel && yarn generate-icon-cli-data",
     "build:tsc": "tsc --emitDeclarationOnly",
     "build:babel": "babel -d lib src -x .tsx"
   },
@@ -23,8 +22,7 @@
     "svg",
     "drawable",
     "pdf",
-    "lib",
-    "cli"
+    "lib"
   ],
   "license": "MIT",
   "devDependencies": {
@@ -53,10 +51,6 @@
     "typescript": "^4.5.2"
   },
   "dependencies": {
-    "app-root-path": "^3.1.0",
-    "chalk": "^5.2.0",
-    "commander": "^10.0.0",
-    "js-yaml": "^4.1.0",
     "string-dedent": "^3.0.1"
   }
 }

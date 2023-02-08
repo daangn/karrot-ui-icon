@@ -15,4 +15,4 @@ function generate() {
 	`
 }
 
-fs.writeFileSync("cli/icon-data.mjs", generate());
+fs.writeFileSync("src/IconData.tsx", generate());
