@@ -1,0 +1,16 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "$id": "https://example.com/product.schema.json",
+  "title": "Product",
+  "description": "A product in the catalog",
+  "type": "object",
+  "properties": {
+    "icons": {
+      "type": "array",
+      "description": "Icon ids",
+      "enum": ["one", "two", "three"],
+      "uniqueItems": true,
+      "items": false
+    }
+  }
+}
