@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema",
-  "$id": "https://github.com/daangn/karrot-ui-icon/blob/json-schema/schema/schema.json",
+  "$id": "https://raw.githubusercontent.com/daangn/karrot-ui-icon/json-schema/schema/schema.json",
   "title": "Product",
   "description": "A product in the catalog",
   "type": "object",
