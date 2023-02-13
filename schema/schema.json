@@ -10,8 +10,7 @@
       "items": {
         "type": "string",
         "enum": ["one", "two", "three"]
-      },
-      "uniqueItems": true
+      }
     }
   }
 }
