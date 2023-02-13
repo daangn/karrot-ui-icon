@@ -7,20 +7,21 @@
   "properties": {
     "icons": {
       "type": "array",
-      "description": "Icon ids",
-      "anyOf": [
-        {
-          "const": "one"
-        },
-        {
-          "const": "two"
-        },
-        {
-          "const": "three"
-        }
-      ],
-      "uniqueItems": true,
-      "items": false
+      "items": {
+        "type": "object",
+        "oneOf": [
+          {
+            "const": "one"
+          },
+          {
+            "const": "two"
+          },
+          {
+            "const": "three"
+          }
+        ]
+      },
+      "uniqueItems": true
     }
   }
 }
