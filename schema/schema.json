@@ -1,14 +1,24 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema",
   "$id": "https://raw.githubusercontent.com/daangn/karrot-ui-icon/json-schema/schema/schema.json",
-  "title": "Product",
-  "description": "A product in the catalog",
+  "title": "Karrot UI Icon Schema",
+  "description": "JSON Schema for Karrot UI Icon",
   "type": "object",
   "properties": {
     "icons": {
       "type": "array",
       "description": "Icon ids",
-      "enum": ["one", "two", "three"],
+      "anyOf": [
+        {
+          "const": "one"
+        },
+        {
+          "const": "two"
+        },
+        {
+          "const": "three"
+        }
+      ],
       "uniqueItems": true,
       "items": false
     }
