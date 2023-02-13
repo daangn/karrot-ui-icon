@@ -8,18 +8,8 @@
     "icons": {
       "type": "array",
       "items": {
-        "type": "object",
-        "oneOf": [
-          {
-            "const": "one"
-          },
-          {
-            "const": "two"
-          },
-          {
-            "const": "three"
-          }
-        ]
+        "type": "string",
+        "enum": ["one", "two", "three"]
       },
       "uniqueItems": true
     }
