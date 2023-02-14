@@ -15,11 +15,11 @@ const iconSchema = dedent`
     "properties": {
       "componentPath": {
         "type": "string",
-        "pattern": "/\.tsx$/"
+        "pattern": "^.+\\.tsx$"
       },
       "spritePath": {
         "type": "string",
-        "pattern": "/\.svg$/"
+        "pattern": "^.+\\.svg$"
       },
       "icons": {
         "type": "array",
@@ -28,8 +28,12 @@ const iconSchema = dedent`
           "enum": [
             ${iconName.map(name => `"${name}"`).join(',\n            ')}
           ]
-        }
-      }
+        },
+        "uniqueitem": true
+      },
+      "required": [
+        "icons",
+      ],
     }
   }\n
 `;
