@@ -561,9 +561,7 @@
         ]
       },
       "uniqueitem": true
-    },
-    "required": [
-      "icons",
-    ],
-  }
+    }
+  },
+  "required": ["icons"]
 }

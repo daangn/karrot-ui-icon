@@ -30,11 +30,9 @@ const iconSchema = dedent`
           ]
         },
         "uniqueitem": true
-      },
-      "required": [
-        "icons",
-      ],
-    }
+      }
+    },
+    "required": ["icons"]
   }\n
 `;
 
