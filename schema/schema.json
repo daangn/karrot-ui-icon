@@ -15,6 +15,7 @@
     },
     "icons": {
       "type": "array",
+      "uniqueItems": true,
       "items": {
         "type": "string",
         "enum": [
@@ -559,8 +560,7 @@
           "icon_list_check_regular",
           "icon_list_check_fill"
         ]
-      },
-      "uniqueitem": true
+      }
     }
   },
   "required": ["icons"]
