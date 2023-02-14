@@ -6,7 +6,8 @@
     "prepack": "yarn build",
     "update-icons": "SKIP_PDF=true node -r tsm scripts/fetch-and-build-assets.cjs",
     "generate-pdf": "node scripts/convert-svg-to-pdf.cjs",
-    "build": "yarn build:tsc && yarn build:babel",
+    "generate-icon-schema": "node scripts/generate-icon-schema.cjs",
+    "build": "yarn build:tsc && yarn build:babel && yarn generate-icon-schema",
     "build:tsc": "tsc --emitDeclarationOnly",
     "build:babel": "babel -d lib src -x .tsx"
   },
@@ -30,6 +31,7 @@
     "@svgr/plugin-prettier": "^6.0.0",
     "@svgr/plugin-svgo": "^6.0.0",
     "@types/react": "^17.0.37",
+    "dedent": "^0.7.0",
     "dotenv": "^10.0.0",
     "got": "^11.8.3",
     "jsdom": "^19.0.0",
