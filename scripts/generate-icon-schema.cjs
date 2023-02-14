@@ -13,6 +13,14 @@ const iconSchema = dedent`
     "description": "JSON Schema for Karrot UI Icon",
     "type": "object",
     "properties": {
+      "componentPath": {
+        "type": "string",
+        "pattern": "/\.tsx$/"
+      },
+      "spritePath": {
+        "type": "string",
+        "pattern": "/\.svg$/"
+      },
       "icons": {
         "type": "array",
         "items": {
