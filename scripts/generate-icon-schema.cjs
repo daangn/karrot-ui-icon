@@ -23,13 +23,13 @@ const iconSchema = dedent`
       },
       "icons": {
         "type": "array",
+        "uniqueItems": true,
         "items": {
           "type": "string",
           "enum": [
             ${iconName.map(name => `"${name}"`).join(',\n            ')}
           ]
-        },
-        "uniqueitem": true
+        }
       }
     },
     "required": ["icons"]
