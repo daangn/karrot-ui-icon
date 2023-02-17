@@ -1,13 +1,18 @@
 {
   "name": "@karrotmarket/karrot-ui-icon",
-  "version": "0.0.0-20230130.1",
+  "version": "0.0.0-20230217.1",
   "type": "module",
+  "bin": {
+    "seed-icon": "./bin.min.mjs"
+  },
   "scripts": {
     "prepack": "yarn build",
     "update-icons": "SKIP_PDF=true node -r tsm scripts/fetch-and-build-assets.cjs",
     "generate-pdf": "node scripts/convert-svg-to-pdf.cjs",
+    "generate-sprite": "node scripts/generate-svg-sprite.cjs",
     "generate-icon-schema": "node scripts/generate-icon-schema.cjs",
-    "build": "yarn build:tsc && yarn build:babel && yarn generate-icon-schema",
+    "generate-icon-cli-data": "node scripts/generate-icon-cli-data.cjs",
+    "build": "yarn build:tsc && yarn build:babel && yarn generate-icon-cli-data && yarn generate-icon-schema",
     "build:tsc": "tsc --emitDeclarationOnly",
     "build:babel": "babel -d lib src -x .tsx"
   },
@@ -20,6 +25,7 @@
     "pdf",
     "lib"
   ],
+  "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.16.0",
     "@babel/core": "^7.16.0",
@@ -31,8 +37,8 @@
     "@svgr/plugin-prettier": "^6.0.0",
     "@svgr/plugin-svgo": "^6.0.0",
     "@types/react": "^17.0.37",
-    "dedent": "^0.7.0",
     "dotenv": "^10.0.0",
+    "esbuild": "^0.17.6",
     "got": "^11.8.3",
     "jsdom": "^19.0.0",
     "jspdf": "^2.5.1",
@@ -43,5 +49,8 @@
     "tasuku": "^1.0.2",
     "tsm": "^2.2.1",
     "typescript": "^4.5.2"
+  },
+  "dependencies": {
+    "string-dedent": "^3.0.1"
   }
 }

@@ -1,9 +1,9 @@
-const iconData = require('../data/icondata.json');
-const { writeFileSync } = require('fs');
-const { resolve } = require('path');
-const dedent = require('dedent');
+const iconData = require("../data/icondata.json");
+const { writeFileSync } = require("fs");
+const { resolve } = require("path");
+const dedent = require("dedent");
 
-const iconName = iconData.map(icon => icon[1]);
+const iconName = iconData.map((icon) => icon[1]);
 
 const iconSchema = dedent`
   {
@@ -13,6 +13,16 @@ const iconSchema = dedent`
     "description": "JSON Schema for Karrot UI Icon",
     "type": "object",
     "properties": {
+      "icons": {
+        "type": "array",
+        "uniqueItems": true,
+        "items": {
+          "type": "string",
+          "enum": [
+            ${iconName.map((name) => `"${name}"`).join(",\n            ")}
+          ]
+        }
+      },
       "componentPath": {
         "type": "string",
         "pattern": "^.+\\.tsx$"
@@ -21,23 +31,16 @@ const iconSchema = dedent`
         "type": "string",
         "pattern": "^.+\\.svg$"
       },
-      "icons": {
-        "type": "array",
-        "uniqueItems": true,
-        "items": {
-          "type": "string",
-          "enum": [
-            ${iconName.map(name => `"${name}"`).join(',\n            ')}
-          ]
-        }
+      "withContext": {
+        "type": "boolean",
+      },
+      "contextPath": {
+        "type": "string",
+        "pattern": "^.+\\.tsx$"
       }
     },
     "required": ["icons"]
   }\n
 `;
 
-writeFileSync(
-  resolve('./schema', 'schema.json'),
-  iconSchema,
-  { encoding: 'utf-8' },
-);
+writeFileSync(resolve("./schema", "schema.json"), iconSchema, { encoding: "utf-8" });
