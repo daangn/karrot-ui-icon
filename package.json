@@ -1,6 +1,6 @@
 {
   "name": "@karrotmarket/karrot-ui-icon",
-  "version": "0.0.0-20230130.1",
+  "version": "0.0.0-20230217.1",
   "type": "module",
   "bin": {
     "seed-icon": "./bin.min.mjs"
