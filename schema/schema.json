@@ -5,14 +5,6 @@
   "description": "JSON Schema for Karrot UI Icon",
   "type": "object",
   "properties": {
-    "componentPath": {
-      "type": "string",
-      "pattern": "^.+\\.tsx$"
-    },
-    "spritePath": {
-      "type": "string",
-      "pattern": "^.+\\.svg$"
-    },
     "icons": {
       "type": "array",
       "uniqueItems": true,
@@ -561,6 +553,21 @@
           "icon_list_check_fill"
         ]
       }
+    },
+    "componentPath": {
+      "type": "string",
+      "pattern": "^.+\\.tsx$"
+    },
+    "spritePath": {
+      "type": "string",
+      "pattern": "^.+\\.svg$"
+    },
+    "withContext": {
+      "type": "boolean",
+    },
+    "contextPath": {
+      "type": "string",
+      "pattern": "^.+\\.tsx$"
     }
   },
   "required": ["icons"]
