@@ -1,6 +1,6 @@
 {
   "name": "@karrotmarket/karrot-ui-icon",
-  "version": "0.0.0-20230217.1",
+  "version": "0.0.0-20230130.1",
   "type": "module",
   "bin": {
     "seed-icon": "./bin.min.mjs"
@@ -9,7 +9,6 @@
     "prepack": "yarn build",
     "update-icons": "SKIP_PDF=true node -r tsm scripts/fetch-and-build-assets.cjs",
     "generate-pdf": "node scripts/convert-svg-to-pdf.cjs",
-    "generate-sprite": "node scripts/generate-svg-sprite.cjs",
     "generate-icon-schema": "node scripts/generate-icon-schema.cjs",
     "generate-icon-cli-data": "node scripts/generate-icon-cli-data.cjs",
     "build": "yarn build:tsc && yarn build:babel && yarn generate-icon-cli-data && yarn generate-icon-schema",
