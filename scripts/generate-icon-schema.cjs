@@ -32,7 +32,7 @@ const iconSchema = dedent`
         "pattern": "^.+\\.svg$"
       },
       "withContext": {
-        "type": "boolean",
+        "type": "boolean"
       },
       "contextPath": {
         "type": "string",
