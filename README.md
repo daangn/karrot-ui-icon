@@ -1,4 +1,6 @@
-# karrot-ui-icon
+# karrot-ui-icon (legacy)
+
+- 현재는 [seed-icon repository](https://github.com/daangn/seed-icon)에서 관리되고 있습니다.
 
 Figma를 진실의 원천으로 하는 Icon 저장소
 
